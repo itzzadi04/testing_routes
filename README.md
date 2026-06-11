@@ -8,8 +8,7 @@ This project is a simple Express.js API to practice CRUD operations.
 ### GET
 - **`GET /api/people`**
   - Returns all people in the array.
-- **`GET /api/people/:id`**
-  - Returns a single person by ID.
+
 
 ### POST
 - **`POST /api/people`**
