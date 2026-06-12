@@ -1,3 +1,4 @@
+
 const people=[
     {
         id:1,
@@ -12,5 +13,6 @@ const people=[
         name:"neymar"
     }
 ]
+
 
 module.exports=people;
